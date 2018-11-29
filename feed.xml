@@ -3,10 +3,89 @@
     <title>tanutest</title>
     <link href="https://olfp.github.io/publii/feed.xml" rel="self" />
     <link href="https://olfp.github.io/publii" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2018-11-29T17:22:19+01:00</updated>
     <author>
-        <name>me</name>
+        <name>Random J. Looser</name>
     </author>
     <id>https://olfp.github.io/publii</id>
 
+    <entry>
+        <title>Dankeschön &amp; Einladung</title>
+        <author>
+            <name>Random J. Looser</name>
+        </author>
+        <link href="https://olfp.github.io/publii/dankeschon-and-einladung.html"/>
+        <id>https://olfp.github.io/publii/dankeschon-and-einladung.html</id>
+            <category term="Tierisch"/>
+
+        <updated>2018-11-29T17:20:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://olfp.github.io/publii/media/posts/3/Nikolaus.jpg" alt="" />
+                    Liebe Kunden, liebe Kollegen und liebe Freunde, Dankeschön für ein tolles gemeinsames&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://olfp.github.io/publii/media/posts/3/Nikolaus.jpg" alt="" />
+                <p><strong>Liebe </strong><strong>Kunden, liebe Kollegen und liebe Freunde,</strong></p>
+<p>Dankeschön für ein tolles gemeinsames Jahr 2018!<br>Zum Jahresausklang laden wir Sie, Ihre Kollegen und Ihr Team herzlich ein,<br>am <strong>Do 06.12. ab 17:00 Uhr </strong>dabei zu sein, beim <strong>Nikolaus Umtrunk</strong> in unserem Firmensitz:<br>tanum consult Gmbh, Zamdorfer Str. 100. Es gibt Leckeres vom Grill, Glühwein und Punsch!</p>
+<p>Anmeldungen gern hier, sowie unter <strong>events</strong><strong>@tanum-consult.</strong><strong>de</strong>, oder kommen Sie einfach spontan vorbei-<br>wir freuen uns auf Sie!</p>
+<p>Mit freundlichen Grüßen</p>
+<p>Ihr <strong>tanum </strong><strong>consult</strong> Team</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Danke Schülermesse!</title>
+        <author>
+            <name>Random J. Looser</name>
+        </author>
+        <link href="https://olfp.github.io/publii/danke-schulermesse.html"/>
+        <id>https://olfp.github.io/publii/danke-schulermesse.html</id>
+            <category term="Report"/>
+
+        <updated>2018-11-29T17:21:01+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://olfp.github.io/publii/media/posts/2/Tite_2-2.jpg" alt="" />
+                    Am Freitag, 6. Juli 2018, hat zum dritten Mal die Schülermesse “TRAUMBERUF&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://olfp.github.io/publii/media/posts/2/Tite_2-2.jpg" alt="" />
+                <p>Am Freitag, 6. Juli 2018, hat zum dritten Mal die Schülermesse “TRAUMBERUF IT&amp;TECHNIK” in München stattgefunden. Wir waren zum ersten Mal vertreten und begeistert:</p>
+<p>engagierte Lehrer melden sich und interessierte Schüler im Vorfeld an und haben dann auf der Messe die Möglichkeit, sich gezielt über die angestrebten schulischen und beruflichen Alternativen zu informieren. Wir haben mit vielen Schülern gesprochen und freuen uns auf die ersten Bewerbungen als Azubi oder Praktikant in unserem Hause, gern unter <a href="mail:jobs@tanum-consult.de">jobs@tanum-consult.de</a></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://olfp.github.io/publii/media/posts/2/gallery/TITe_1-2.jpg" ><img src="https://olfp.github.io/publii/media/posts/2/gallery/TITe_1-2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://olfp.github.io/publii/media/posts/2/gallery/Tite_3-2.jpg" ><img src="https://olfp.github.io/publii/media/posts/2/gallery/Tite_3-2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Das geheime Leben der Tiere</title>
+        <author>
+            <name>Random J. Looser</name>
+        </author>
+        <link href="https://olfp.github.io/publii/das-geheime-leben-der-tiere.html"/>
+        <id>https://olfp.github.io/publii/das-geheime-leben-der-tiere.html</id>
+            <category term="Tierisch"/>
+
+        <updated>2018-11-29T17:21:07+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://olfp.github.io/publii/media/posts/1/0bbaef70-0fdc-4cda-81f5-a6b6d6aaef35.jpg" alt="" />
+                    The quick brown fox jumps over the lazy dog.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://olfp.github.io/publii/media/posts/1/0bbaef70-0fdc-4cda-81f5-a6b6d6aaef35.jpg" alt="" />
+                <p>The quick brown fox jumps over the lazy dog.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

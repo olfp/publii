@@ -5,9 +5,58 @@
     "home_page_url": "https://olfp.github.io/publii",
     "feed_url": "https://olfp.github.io/publii/feed.json",
     "user_comment": "",
+    "icon": "https://olfp.github.io/publii/media/website/tanum.png",
     "author": {
-        "name": "me"
+        "name": "Random J. Looser"
     },
     "items": [
+        {
+            "id": "https://olfp.github.io/publii/dankeschon-and-einladung.html",
+            "url": "https://olfp.github.io/publii/dankeschon-and-einladung.html",
+            "title": "Dankeschön &amp; Einladung",
+            "summary": "Liebe Kunden, liebe Kollegen und liebe Freunde, Dankeschön für ein tolles gemeinsames&hellip;",
+            "content_html": "<p><strong>Liebe </strong><strong>Kunden, liebe Kollegen und liebe Freunde,</strong></p>\n<p>Dankeschön für ein tolles gemeinsames Jahr 2018!<br>Zum Jahresausklang laden wir Sie, Ihre Kollegen und Ihr Team herzlich ein,<br>am <strong>Do 06.12. ab 17:00 Uhr </strong>dabei zu sein, beim <strong>Nikolaus Umtrunk</strong> in unserem Firmensitz:<br>tanum consult Gmbh, Zamdorfer Str. 100. Es gibt Leckeres vom Grill, Glühwein und Punsch!</p>\n<p>Anmeldungen gern hier, sowie unter <strong>events</strong><strong>@tanum-consult.</strong><strong>de</strong>, oder kommen Sie einfach spontan vorbei-<br>wir freuen uns auf Sie!</p>\n<p>Mit freundlichen Grüßen</p>\n<p>Ihr <strong>tanum </strong><strong>consult</strong> Team</p>",
+            "image": "https://olfp.github.io/publii/media/posts/3/Nikolaus.jpg",
+            "author": {
+                "name": "Random J. Looser"
+            },
+            "tags": [
+                   "Tierisch"
+            ],
+            "date_published": "2018-11-29T17:12:16+01:00",
+            "date_modified": "2018-11-29T17:20:42+01:00"
+        },
+        {
+            "id": "https://olfp.github.io/publii/danke-schulermesse.html",
+            "url": "https://olfp.github.io/publii/danke-schulermesse.html",
+            "title": "Danke Schülermesse!",
+            "summary": "Am Freitag, 6. Juli 2018, hat zum dritten Mal die Schülermesse “TRAUMBERUF&hellip;",
+            "content_html": "<p>Am Freitag, 6. Juli 2018, hat zum dritten Mal die Schülermesse “TRAUMBERUF IT&amp;TECHNIK” in München stattgefunden. Wir waren zum ersten Mal vertreten und begeistert:</p>\n<p>engagierte Lehrer melden sich und interessierte Schüler im Vorfeld an und haben dann auf der Messe die Möglichkeit, sich gezielt über die angestrebten schulischen und beruflichen Alternativen zu informieren. Wir haben mit vielen Schülern gesprochen und freuen uns auf die ersten Bewerbungen als Azubi oder Praktikant in unserem Hause, gern unter <a href=\"mail:jobs@tanum-consult.de\">jobs@tanum-consult.de</a></p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://olfp.github.io/publii/media/posts/2/gallery/TITe_1-2.jpg\" ><img src=\"https://olfp.github.io/publii/media/posts/2/gallery/TITe_1-2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://olfp.github.io/publii/media/posts/2/gallery/Tite_3-2.jpg\" ><img src=\"https://olfp.github.io/publii/media/posts/2/gallery/Tite_3-2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p> </p>",
+            "image": "https://olfp.github.io/publii/media/posts/2/Tite_2-2.jpg",
+            "author": {
+                "name": "Random J. Looser"
+            },
+            "tags": [
+                   "Report"
+            ],
+            "date_published": "2018-11-29T17:10:01+01:00",
+            "date_modified": "2018-11-29T17:21:01+01:00"
+        },
+        {
+            "id": "https://olfp.github.io/publii/das-geheime-leben-der-tiere.html",
+            "url": "https://olfp.github.io/publii/das-geheime-leben-der-tiere.html",
+            "title": "Das geheime Leben der Tiere",
+            "summary": "The quick brown fox jumps over the lazy dog.",
+            "content_html": "<p>The quick brown fox jumps over the lazy dog.</p>",
+            "image": "https://olfp.github.io/publii/media/posts/1/0bbaef70-0fdc-4cda-81f5-a6b6d6aaef35.jpg",
+            "author": {
+                "name": "Random J. Looser"
+            },
+            "tags": [
+                   "Tierisch"
+            ],
+            "date_published": "2018-11-29T16:53:43+01:00",
+            "date_modified": "2018-11-29T17:21:07+01:00"
+        }
     ]
 }
